@@ -15,9 +15,9 @@ const About = () => {
           Explore : Science Meets Healthy Living
         </h1>
       </div>
-      <div className="sm:px-8 py-3 mx-10 pt-2">
+      <div className="sm:px-8 py-3 px-4 md:px-10 lg:px-16">
         <Card>
-          <p className="text-gray-400 text-lg px-12 sm:leading-10 py-6 mx-10">
+          <p className="text-gray-400 text-base sm:text-lg md:text-xl lg:text-2xl px-4 sm:px-8 md:px-12 lg:px-16 sm:leading-7 md:leading-9 lg:leading-10 py-4 sm:py-6 md:py-8 mx-4 sm:mx-6 md:mx-10 lg:mx-12">
             Hi, I am Qurat ul Ain—a frontend developer with a scientific edge!
             With a background in Analytical Chemistry and management, plus years
             in quality control, I bring precision and creativity to the digital
